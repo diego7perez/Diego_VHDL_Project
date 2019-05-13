@@ -1,7 +1,7 @@
 --------------------------------------------------------------------------------
 -- Brno University of Technology, Department of Radio Electronics
 --------------------------------------------------------------------------------
--- Author: HALA AMAHJOUR, DIEGO PEREZ
+-- Author: DIEGO PEREZ
 -- Date: 2019-04-18
 -- Design: bin_cnt_2
 -- Description: N-bit binary counter with synchronous reset which has a binary account of N bits.
