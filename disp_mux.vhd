@@ -1,7 +1,7 @@
 --------------------------------------------------------------------------------
 -- Brno University of Technology, Department of Radio Electronics
 --------------------------------------------------------------------------------
--- Author: HALA AMAHJOUR, DIEGO PEREZ
+-- Author: DIEGO PEREZ
 -- Date: 2019-04-18
 -- Design: disp_mux
 -- Description: 7-segment display time-multiplexing module.
