@@ -1,7 +1,7 @@
 --------------------------------------------------------------------------------
 -- Brno University of Technology, Department of Radio Electronics
 --------------------------------------------------------------------------------
--- Author: HALA AMAHJOUR, DIEGO PEREZ
+-- Author: DIEGO PEREZ
 -- Date: 2019-04-18
 -- Design: hex_to_sseg
 -- Description: Hexadecimal digit to seven-segment LED decoder.
